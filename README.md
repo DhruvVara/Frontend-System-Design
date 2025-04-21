@@ -11,7 +11,7 @@ XSS attacks occurs when attacker injects and executes unauthorised scripts into 
 
 #### Preventing techniques
 - **Proper Input Validation.**
-- **Sanitization :** It is the process of inspecting and cleansing user to input to prevent malicious code injection. This is typicallydone vy removing or escaping charaters that could be interpreted as code. IT helps from xss, SQL injection, etc.
+- **Sanitization :** It is the process of inspecting and cleansing user to input to prevent malicious code injection. This is typically done by removing or escaping characters that could be interpreted as code. It helps from xss, SQL injection, etc.
 
 Syntax :
 ``` 
